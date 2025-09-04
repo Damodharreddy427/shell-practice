@@ -3,3 +3,5 @@
 Movies=("Court" "Pushpa2" "Hit3")
 
 echo "First Movie : ${Movies[0]}"
+
+echo "All movies ${Movies[*]}"
